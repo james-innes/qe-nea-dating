@@ -1,4 +1,4 @@
-# qe-cs-nea
+# Dating App
 
 Queen Elizabeth's School  
 A-Level Computer Science  
