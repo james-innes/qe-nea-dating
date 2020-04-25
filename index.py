@@ -30,7 +30,7 @@ import pymysql
 import os
 
 #*Setup database connection with cursor
-db = pymysql.connect("localhost","root","","csneasc5")
+db = pymysql.connect("localhost","root","","db")
 c = db.cursor()
 
 #*Defining Globals
